@@ -1,0 +1,15 @@
+F:\Учение\Знакомство с C#\DZ Seminar 1\task4\bin\Debug\net6.0\task4.exe
+F:\Учение\Знакомство с C#\DZ Seminar 1\task4\bin\Debug\net6.0\task4.deps.json
+F:\Учение\Знакомство с C#\DZ Seminar 1\task4\bin\Debug\net6.0\task4.runtimeconfig.json
+F:\Учение\Знакомство с C#\DZ Seminar 1\task4\bin\Debug\net6.0\task4.dll
+F:\Учение\Знакомство с C#\DZ Seminar 1\task4\bin\Debug\net6.0\task4.pdb
+F:\Учение\Знакомство с C#\DZ Seminar 1\task4\obj\Debug\net6.0\task4.csproj.AssemblyReference.cache
+F:\Учение\Знакомство с C#\DZ Seminar 1\task4\obj\Debug\net6.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учение\Знакомство с C#\DZ Seminar 1\task4\obj\Debug\net6.0\task4.AssemblyInfoInputs.cache
+F:\Учение\Знакомство с C#\DZ Seminar 1\task4\obj\Debug\net6.0\task4.AssemblyInfo.cs
+F:\Учение\Знакомство с C#\DZ Seminar 1\task4\obj\Debug\net6.0\task4.csproj.CoreCompileInputs.cache
+F:\Учение\Знакомство с C#\DZ Seminar 1\task4\obj\Debug\net6.0\task4.dll
+F:\Учение\Знакомство с C#\DZ Seminar 1\task4\obj\Debug\net6.0\refint\task4.dll
+F:\Учение\Знакомство с C#\DZ Seminar 1\task4\obj\Debug\net6.0\task4.pdb
+F:\Учение\Знакомство с C#\DZ Seminar 1\task4\obj\Debug\net6.0\task4.genruntimeconfig.cache
+F:\Учение\Знакомство с C#\DZ Seminar 1\task4\obj\Debug\net6.0\ref\task4.dll
